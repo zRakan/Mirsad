@@ -18,7 +18,7 @@ The project is called "Mirsad", it's a chatbot that interact with a `SaudiExchan
 
 ## Credits
 * Rakan Almutairi - @zRakan
-* Faisal Almansoure - @BlazeCode1
+* Faisal Almansour - @BlazeCode1
 * Anas Alshehri - @AnasShehri
 * Mohammed Alawashez - @Alawashez2
 * Saleh Altuwaijri - @salehtwj
