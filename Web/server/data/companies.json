@@ -1,0 +1,1286 @@
+[
+    {
+        "id": "4002",
+        "name": "شركة المواساة للخدمات الطبية",
+        "nameAR": "شركة المواساة للخدمات الطبية",
+        "nameEN": "Mouwasat Medical Services Co."
+    },
+    {
+        "id": "8270",
+        "name": "شركة بروج للتأمين التعاوني",
+        "nameAR": "شركة بروج للتأمين التعاوني",
+        "nameEN": "Buruj Cooperative Insurance Co."
+    },
+    {
+        "id": "6060",
+        "name": "شركة الشرقية للتنمية",
+        "nameAR": "شركة الشرقية للتنمية",
+        "nameEN": "Ash-Sharqiyah Development Co."
+    },
+    {
+        "id": "4220",
+        "name": "إعمار المدينة الإقتصادية",
+        "nameAR": "إعمار المدينة الإقتصادية",
+        "nameEN": "Emaar The Economic City"
+    },
+    {
+        "id": "2240",
+        "name": "شركة الزامل للإستثمار الصناعي",
+        "nameAR": "شركة الزامل للإستثمار الصناعي",
+        "nameEN": "Zamil Industrial Investment Co."
+    },
+    {
+        "id": "3030",
+        "name": "شركة الأسمنت السعودية",
+        "nameAR": "شركة الأسمنت السعودية",
+        "nameEN": "Saudi Cement Co."
+    },
+    {
+        "id": "4280",
+        "name": "شركة المملكة القابضة",
+        "nameAR": "شركة المملكة القابضة",
+        "nameEN": "Kingdom Holding Co."
+    },
+    {
+        "id": "6001",
+        "name": "شركة حلواني إخوان",
+        "nameAR": "شركة حلواني إخوان",
+        "nameEN": "Halwani Bros. Co."
+    },
+    {
+        "id": "1060",
+        "name": "البنك السعودي الأول",
+        "nameAR": "البنك السعودي الأول",
+        "nameEN": "Saudi Awwal Bank"
+    },
+    {
+        "id": "4003",
+        "name": "الشركة المتحدة للإلكترونيات",
+        "nameAR": "الشركة المتحدة للإلكترونيات",
+        "nameEN": "United Electronics Co."
+    },
+    {
+        "id": "4250",
+        "name": "شركة جبل عمر للتطوير",
+        "nameAR": "شركة جبل عمر للتطوير",
+        "nameEN": "Jabal Omar Development Co."
+    },
+    {
+        "id": "6004",
+        "name": "شركة كاتريون للتموين القابضة",
+        "nameAR": "شركة كاتريون للتموين القابضة",
+        "nameEN": "CATRION Catering Holding Co."
+    },
+    {
+        "id": "2230",
+        "name": "الشركة الكيميائية السعودية القابضة",
+        "nameAR": "الشركة الكيميائية السعودية القابضة",
+        "nameEN": "Saudi Chemical Co."
+    },
+    {
+        "id": "4230",
+        "name": "شركة البحر الأحمر العالمية",
+        "nameAR": "شركة البحر الأحمر العالمية",
+        "nameEN": "Red Sea International Co."
+    },
+    {
+        "id": "6020",
+        "name": "شركة القصيم القابضة للاستثمار",
+        "nameAR": "شركة القصيم القابضة للاستثمار",
+        "nameEN": "Al Gassim Investment Holding Co."
+    },
+    {
+        "id": "4001",
+        "name": "شركة أسواق عبدالله العثيم",
+        "nameAR": "شركة أسواق عبدالله العثيم",
+        "nameEN": "Abdullah Al Othaim Markets Co."
+    },
+    {
+        "id": "3060",
+        "name": "شركة أسمنت ينبع",
+        "nameAR": "شركة أسمنت ينبع",
+        "nameEN": "Yanbu Cement Co."
+    },
+    {
+        "id": "2210",
+        "name": "شركة نماء للكيماويات",
+        "nameAR": "شركة نماء للكيماويات",
+        "nameEN": "Nama Chemicals Co."
+    },
+    {
+        "id": "2360",
+        "name": "الشركة السعودية لإنتاج الأنابيب الفخارية",
+        "nameAR": "الشركة السعودية لإنتاج الأنابيب الفخارية",
+        "nameEN": "Saudi Vitrified Clay Pipes Co."
+    },
+    {
+        "id": "1080",
+        "name": "البنك العربي الوطني",
+        "nameAR": "البنك العربي الوطني",
+        "nameEN": "Arab National Bank"
+    },
+    {
+        "id": "8280",
+        "name": "شركة ليفا للتأمين",
+        "nameAR": "شركة ليفا للتأمين",
+        "nameEN": "LIVA Insurance Co."
+    },
+    {
+        "id": "2070",
+        "name": "الشركة السعودية للصناعات الدوائية والمستلزمات الطبية",
+        "nameAR": "الشركة السعودية للصناعات الدوائية والمستلزمات الطبية",
+        "nameEN": "Saudi Pharmaceutical Industries and Medical Appliances Corp."
+    },
+    {
+        "id": "3050",
+        "name": "شركة أسمنت المنطقة الجنوبية",
+        "nameAR": "شركة أسمنت المنطقة الجنوبية",
+        "nameEN": "Southern Province Cement Co."
+    },
+    {
+        "id": "4030",
+        "name": "الشركة الوطنية السعودية للنقل البحري",
+        "nameAR": "الشركة الوطنية السعودية للنقل البحري",
+        "nameEN": "National Shipping Company of Saudi Arabia"
+    },
+    {
+        "id": "8150",
+        "name": "المجموعة المتحدة للتأمين التعاوني",
+        "nameAR": "المجموعة المتحدة للتأمين التعاوني",
+        "nameEN": "Allied Cooperative Insurance Group"
+    },
+    {
+        "id": "8100",
+        "name": "الشركة العربية السعودية للتأمين التعاوني",
+        "nameAR": "الشركة العربية السعودية للتأمين التعاوني",
+        "nameEN": "Saudi Arabian Cooperative Insurance Co."
+    },
+    {
+        "id": "2220",
+        "name": "الشركة الوطنية لتصنيع وسبك المعادن",
+        "nameAR": "الشركة الوطنية لتصنيع وسبك المعادن",
+        "nameEN": "National Metal Manufacturing and Casting Co."
+    },
+    {
+        "id": "4270",
+        "name": "الشركة السعودية للطباعة والتغليف",
+        "nameAR": "الشركة السعودية للطباعة والتغليف",
+        "nameEN": "Saudi Printing and Packaging Co."
+    },
+    {
+        "id": "2160",
+        "name": "شركة أميانتيت العربية السعودية",
+        "nameAR": "شركة أميانتيت العربية السعودية",
+        "nameEN": "Saudi Arabian Amiantit Co."
+    },
+    {
+        "id": "8210",
+        "name": "شركة بوبا العربية للتأمين التعاوني",
+        "nameAR": "شركة بوبا العربية للتأمين التعاوني",
+        "nameEN": "Bupa Arabia for Cooperative Insurance Co."
+    },
+    {
+        "id": "6070",
+        "name": "شركة الجوف الزراعية",
+        "nameAR": "شركة الجوف الزراعية",
+        "nameEN": "Al-Jouf Agricultural Development Co."
+    },
+    {
+        "id": "1030",
+        "name": "البنك السعودي للإستثمار",
+        "nameAR": "البنك السعودي للإستثمار",
+        "nameEN": "Saudi Investment Bank"
+    },
+    {
+        "id": "2040",
+        "name": "شركة الخزف السعودي",
+        "nameAR": "شركة الخزف السعودي",
+        "nameEN": "Saudi Ceramic Co."
+    },
+    {
+        "id": "6050",
+        "name": "الشركة السعودية للأسماك",
+        "nameAR": "الشركة السعودية للأسماك",
+        "nameEN": "Saudi Fisheries Co."
+    },
+    {
+        "id": "4150",
+        "name": "شركة الرياض للتعمير",
+        "nameAR": "شركة الرياض للتعمير",
+        "nameEN": "Arriyadh Development Co."
+    },
+    {
+        "id": "2170",
+        "name": "شركة اللجين",
+        "nameAR": "شركة اللجين",
+        "nameEN": "Alujain Corp."
+    },
+    {
+        "id": "2010",
+        "name": "الشركة السعودية للصناعات الأساسية",
+        "nameAR": "الشركة السعودية للصناعات الأساسية",
+        "nameEN": "Saudi Basic Industries Corp."
+    },
+    {
+        "id": "2030",
+        "name": "شركة المصافي العربية السعودية",
+        "nameAR": "شركة المصافي العربية السعودية",
+        "nameEN": "Saudi Arabia Refineries Co."
+    },
+    {
+        "id": "4110",
+        "name": "شركة باتك للإستثمار والأعمال اللوجستية",
+        "nameAR": "شركة باتك للإستثمار والأعمال اللوجستية",
+        "nameEN": "Batic Investments and Logistics Co."
+    },
+    {
+        "id": "2200",
+        "name": "الشركة العربية للأنابيب",
+        "nameAR": "الشركة العربية للأنابيب",
+        "nameEN": "Arabian Pipes Co."
+    },
+    {
+        "id": "7020",
+        "name": "شركة إتحاد إتصالات",
+        "nameAR": "شركة إتحاد إتصالات",
+        "nameEN": "Etihad Etisalat Co."
+    },
+    {
+        "id": "1150",
+        "name": "مصرف الإنماء",
+        "nameAR": "مصرف الإنماء",
+        "nameEN": "Alinma Bank"
+    },
+    {
+        "id": "2130",
+        "name": "الشركة السعودية للتنمية الصناعية",
+        "nameAR": "الشركة السعودية للتنمية الصناعية",
+        "nameEN": "Saudi Industrial Development Co."
+    },
+    {
+        "id": "2370",
+        "name": "شركة الشرق الأوسط للكابلات المتخصصة",
+        "nameAR": "شركة الشرق الأوسط للكابلات المتخصصة",
+        "nameEN": "Middle East Specialized Cables Co."
+    },
+    {
+        "id": "2380",
+        "name": "شركة رابغ للتكرير والبتروكيماويات",
+        "nameAR": "شركة رابغ للتكرير والبتروكيماويات",
+        "nameEN": "Rabigh Refining and Petrochemical Co."
+    },
+    {
+        "id": "8020",
+        "name": "شركة ملاذ للتأمين التعاوني",
+        "nameAR": "شركة ملاذ للتأمين التعاوني",
+        "nameEN": "Malath Cooperative Insurance Co."
+    },
+    {
+        "id": "4170",
+        "name": "شركة المشروعات السياحية",
+        "nameAR": "شركة المشروعات السياحية",
+        "nameEN": "Tourism Enterprise Co."
+    },
+    {
+        "id": "8070",
+        "name": "شركة الدرع العربي للتأمين التعاوني",
+        "nameAR": "شركة الدرع العربي للتأمين التعاوني",
+        "nameEN": "Arabian Shield Cooperative Insurance Co."
+    },
+    {
+        "id": "4050",
+        "name": "الشركة السعودية لخدمات السيارات والمعدات",
+        "nameAR": "الشركة السعودية لخدمات السيارات والمعدات",
+        "nameEN": "Saudi Automotive Services Co."
+    },
+    {
+        "id": "3010",
+        "name": "شركة الأسمنت العربية",
+        "nameAR": "شركة الأسمنت العربية",
+        "nameEN": "Arabian Cement Co."
+    },
+    {
+        "id": "4004",
+        "name": "شركة دله للخدمات الصحية",
+        "nameAR": "شركة دله للخدمات الصحية",
+        "nameEN": "Dallah Healthcare Co."
+    },
+    {
+        "id": "3020",
+        "name": "شركة أسمنت اليمامة",
+        "nameAR": "شركة أسمنت اليمامة",
+        "nameEN": "Yamama Cement Co."
+    },
+    {
+        "id": "3001",
+        "name": "شركة أسمنت حائل",
+        "nameAR": "شركة أسمنت حائل",
+        "nameEN": "Hail Cement Co."
+    },
+    {
+        "id": "2280",
+        "name": "شركة المراعي",
+        "nameAR": "شركة المراعي",
+        "nameEN": "Almarai Co."
+    },
+    {
+        "id": "2020",
+        "name": "شركة سابك للمغذيات الزراعية",
+        "nameAR": "شركة سابك للمغذيات الزراعية",
+        "nameEN": "SABIC Agri-Nutrients Co."
+    },
+    {
+        "id": "6002",
+        "name": "شركة هرفي للخدمات الغذائية",
+        "nameAR": "شركة هرفي للخدمات الغذائية",
+        "nameEN": "Herfy Food Services Co."
+    },
+    {
+        "id": "4070",
+        "name": "شركة تهامة للإعلان والعلاقات العامة",
+        "nameAR": "شركة تهامة للإعلان والعلاقات العامة",
+        "nameEN": "Tihama Advertising and Public Relations Co."
+    },
+    {
+        "id": "8200",
+        "name": "الشركة السعودية لإعادة التأمين",
+        "nameAR": "الشركة السعودية لإعادة التأمين",
+        "nameEN": "Saudi Reinsurance Co."
+    },
+    {
+        "id": "2340",
+        "name": "شركة ارتيكس للاستثمار الصناعي",
+        "nameAR": "شركة ارتيكس للاستثمار الصناعي",
+        "nameEN": "ARTEX Industrial Investment Co."
+    },
+    {
+        "id": "8310",
+        "name": "شركة أمانة للتأمين التعاوني",
+        "nameAR": "شركة أمانة للتأمين التعاوني",
+        "nameEN": "Amana Cooperative Insurance Co."
+    },
+    {
+        "id": "2180",
+        "name": "شركة تصنيع مواد التعبئة والتغليف",
+        "nameAR": "شركة تصنيع مواد التعبئة والتغليف",
+        "nameEN": "Filing and Packing Materials Manufacturing Co."
+    },
+    {
+        "id": "3090",
+        "name": "شركة أسمنت تبوك",
+        "nameAR": "شركة أسمنت تبوك",
+        "nameEN": "Tabuk Cement Co."
+    },
+    {
+        "id": "8311",
+        "name": "شركة عناية السعودية للتأمين التعاوني",
+        "nameAR": "شركة عناية السعودية للتأمين التعاوني",
+        "nameEN": "Saudi Enaya Cooperative Insurance Co."
+    },
+    {
+        "id": "2001",
+        "name": "شركة كيمائيات الميثانول",
+        "nameAR": "شركة كيمائيات الميثانول",
+        "nameEN": "Methanol Chemicals Co."
+    },
+    {
+        "id": "4260",
+        "name": "الشركة المتحدة الدولية للمواصلات",
+        "nameAR": "الشركة المتحدة الدولية للمواصلات",
+        "nameEN": "United International Transportation Co."
+    },
+    {
+        "id": "6010",
+        "name": "الشركة الوطنية للتنمية الزراعية",
+        "nameAR": "الشركة الوطنية للتنمية الزراعية",
+        "nameEN": "National Agricultural Development Co."
+    },
+    {
+        "id": "4310",
+        "name": "مدينة المعرفة الإقتصادية",
+        "nameAR": "مدينة المعرفة الإقتصادية",
+        "nameEN": "Knowledge Economic City"
+    },
+    {
+        "id": "4190",
+        "name": "شركة جرير للتسويق",
+        "nameAR": "شركة جرير للتسويق",
+        "nameEN": "Jarir Marketing Co."
+    },
+    {
+        "id": "8170",
+        "name": "شركة الاتحاد للتأمين التعاوني",
+        "nameAR": "شركة الاتحاد للتأمين التعاوني",
+        "nameEN": "Al-Etihad Cooperative Insurance Co."
+    },
+    {
+        "id": "2110",
+        "name": "شركة الكابلات السعودية",
+        "nameAR": "شركة الكابلات السعودية",
+        "nameEN": "Saudi Cable Co."
+    },
+    {
+        "id": "2150",
+        "name": "شركة الصناعات الزجاجية الوطنية",
+        "nameAR": "شركة الصناعات الزجاجية الوطنية",
+        "nameEN": "The National Company for Glass Industries"
+    },
+    {
+        "id": "8060",
+        "name": "شركة ولاء للتأمين التعاوني",
+        "nameAR": "شركة ولاء للتأمين التعاوني",
+        "nameEN": "Walaa Cooperative Insurance Co."
+    },
+    {
+        "id": "4210",
+        "name": "المجموعة السعودية للأبحاث والإعلام",
+        "nameAR": "المجموعة السعودية للأبحاث والإعلام",
+        "nameEN": "Saudi Research and Media Group"
+    },
+    {
+        "id": "8040",
+        "name": "شركة أليانز السعودي الفرنسي للتأمين التعاوني",
+        "nameAR": "شركة أليانز السعودي الفرنسي للتأمين التعاوني",
+        "nameEN": "Allianz Saudi Fransi Cooperative Insurance Co."
+    },
+    {
+        "id": "3003",
+        "name": "شركة أسمنت المدينة",
+        "nameAR": "شركة أسمنت المدينة",
+        "nameEN": "City Cement Co."
+    },
+    {
+        "id": "8120",
+        "name": "شركة إتحاد الخليج الأهلية للتأمين التعاوني",
+        "nameAR": "شركة إتحاد الخليج الأهلية للتأمين التعاوني",
+        "nameEN": "Gulf Union Alahlia Cooperative Insurance Co."
+    },
+    {
+        "id": "2320",
+        "name": "شركة البابطين للطاقة والإتصالات",
+        "nameAR": "شركة البابطين للطاقة والإتصالات",
+        "nameEN": "Al-Babtain Power and Telecommunication Co."
+    },
+    {
+        "id": "4040",
+        "name": "الشركة السعودية للنقل الجماعي",
+        "nameAR": "الشركة السعودية للنقل الجماعي",
+        "nameEN": "Saudi Public Transport Co."
+    },
+    {
+        "id": "4140",
+        "name": "الشركة السعودية للصادرات الصناعية",
+        "nameAR": "الشركة السعودية للصادرات الصناعية",
+        "nameEN": "Saudi Industrial Export Co."
+    },
+    {
+        "id": "4005",
+        "name": "الشركة الوطنية للرعاية الطبية",
+        "nameAR": "الشركة الوطنية للرعاية الطبية",
+        "nameEN": "National Medical Care Co."
+    },
+    {
+        "id": "5110",
+        "name": "الشركة السعودية للكهرباء",
+        "nameAR": "الشركة السعودية للكهرباء",
+        "nameEN": "Saudi Electricity Co."
+    },
+    {
+        "id": "6040",
+        "name": "شركة تبوك للتنمية الزراعية",
+        "nameAR": "شركة تبوك للتنمية الزراعية",
+        "nameEN": "Tabuk Agricultural Development Co."
+    },
+    {
+        "id": "3002",
+        "name": "شركة أسمنت نجران",
+        "nameAR": "شركة أسمنت نجران",
+        "nameEN": "Najran Cement Co."
+    },
+    {
+        "id": "4100",
+        "name": "شركة مكة للإنشاء والتعمير",
+        "nameAR": "شركة مكة للإنشاء والتعمير",
+        "nameEN": "Makkah Construction and Development Co."
+    },
+    {
+        "id": "2050",
+        "name": "مجموعة صافولا",
+        "nameAR": "مجموعة صافولا",
+        "nameEN": "Savola Group"
+    },
+    {
+        "id": "2300",
+        "name": "الشركة السعودية لصناعة الورق",
+        "nameAR": "الشركة السعودية لصناعة الورق",
+        "nameEN": "Saudi Paper Manufacturing Co."
+    },
+    {
+        "id": "1211",
+        "name": "شركة التعدين العربية السعودية",
+        "nameAR": "شركة التعدين العربية السعودية",
+        "nameEN": "Saudi Arabian Mining Co."
+    },
+    {
+        "id": "2090",
+        "name": "شركة الجبس الأهلية",
+        "nameAR": "شركة الجبس الأهلية",
+        "nameEN": "National Gypsum Co."
+    },
+    {
+        "id": "4160",
+        "name": "شركة ثمار التنمية القابضة",
+        "nameAR": "شركة ثمار التنمية القابضة",
+        "nameEN": "Thimar Development Holding Co."
+    },
+    {
+        "id": "6090",
+        "name": "شركة جازان للتنمية والاستثمار",
+        "nameAR": "شركة جازان للتنمية والاستثمار",
+        "nameEN": "Jazan Development and Investment Co."
+    },
+    {
+        "id": "4290",
+        "name": "شركة الخليج للتدريب والتعليم",
+        "nameAR": "شركة الخليج للتدريب والتعليم",
+        "nameEN": "Alkhaleej Training and Education Co."
+    },
+    {
+        "id": "4061",
+        "name": "مجموعة أنعام الدولية القابضة",
+        "nameAR": "مجموعة أنعام الدولية القابضة",
+        "nameEN": "Anaam International Holding Group"
+    },
+    {
+        "id": "8160",
+        "name": "شركة التأمين العربية التعاونية",
+        "nameAR": "شركة التأمين العربية التعاونية",
+        "nameEN": "Arabia Insurance Cooperative Co."
+    },
+    {
+        "id": "4300",
+        "name": "شركة دار الأركان للتطوير العقاري",
+        "nameAR": "شركة دار الأركان للتطوير العقاري",
+        "nameEN": "Dar Alarkan Real Estate Development Co."
+    },
+    {
+        "id": "4200",
+        "name": "شركة الدريس للخدمات البترولية و النقليات",
+        "nameAR": "شركة الدريس للخدمات البترولية و النقليات",
+        "nameEN": "Aldrees Petroleum and Transport Services Co."
+    },
+    {
+        "id": "8250",
+        "name": "مجموعة الخليج للتأمين",
+        "nameAR": "مجموعة الخليج للتأمين",
+        "nameEN": "Gulf Insurance Group"
+    },
+    {
+        "id": "1301",
+        "name": "شركة إتحاد مصانع الأسلاك",
+        "nameAR": "شركة إتحاد مصانع الأسلاك",
+        "nameEN": "United Wire Factories Co."
+    },
+    {
+        "id": "8050",
+        "name": "شركة سلامة للتأمين التعاوني",
+        "nameAR": "شركة سلامة للتأمين التعاوني",
+        "nameEN": "Salama Cooperative Insurance Co."
+    },
+    {
+        "id": "8010",
+        "name": "الشركة التعاونية للتأمين",
+        "nameAR": "الشركة التعاونية للتأمين",
+        "nameEN": "The Company for Cooperative Insurance"
+    },
+    {
+        "id": "1213",
+        "name": "شركة نسيج العالمية التجارية",
+        "nameAR": "شركة نسيج العالمية التجارية",
+        "nameEN": "Naseej International Trading Co."
+    },
+    {
+        "id": "2060",
+        "name": "شركة التصنيع الوطنية",
+        "nameAR": "شركة التصنيع الوطنية",
+        "nameEN": "National Industrialization Co."
+    },
+    {
+        "id": "2140",
+        "name": "شركة أيان للإستثمار",
+        "nameAR": "شركة أيان للإستثمار",
+        "nameEN": "AYYAN Investment Co."
+    },
+    {
+        "id": "1214",
+        "name": "شركة الحسن غازي إبراهيم شاكر",
+        "nameAR": "شركة الحسن غازي إبراهيم شاكر",
+        "nameEN": "Al Hassan Ghazi Ibrahim Shaker Co."
+    },
+    {
+        "id": "2330",
+        "name": "الشركة المتقدمة للبتروكيماويات",
+        "nameAR": "الشركة المتقدمة للبتروكيماويات",
+        "nameEN": "Advanced Petrochemical Co."
+    },
+    {
+        "id": "1020",
+        "name": "بنك الجزيرة",
+        "nameAR": "بنك الجزيرة",
+        "nameEN": "Bank Aljazira"
+    },
+    {
+        "id": "2350",
+        "name": "شركة كيان السعودية للبتروكيماويات",
+        "nameAR": "شركة كيان السعودية للبتروكيماويات",
+        "nameEN": "Saudi Kayan Petrochemical Co."
+    },
+    {
+        "id": "1210",
+        "name": "شركة الصناعات الكيميائية الأساسية",
+        "nameAR": "شركة الصناعات الكيميائية الأساسية",
+        "nameEN": "Basic Chemical Industries Co."
+    },
+    {
+        "id": "2190",
+        "name": "شركة البنى التحتية المستدامة القابضة",
+        "nameAR": "شركة البنى التحتية المستدامة القابضة",
+        "nameEN": "Sustained Infrastructure Holding Co."
+    },
+    {
+        "id": "2080",
+        "name": "شركة الغاز والتصنيع الأهلية",
+        "nameAR": "شركة الغاز والتصنيع الأهلية",
+        "nameEN": "National Gas and Industrialization Co."
+    },
+    {
+        "id": "1010",
+        "name": "بنك الرياض",
+        "nameAR": "بنك الرياض",
+        "nameEN": "Riyad Bank"
+    },
+    {
+        "id": "1212",
+        "name": "مجموعة أسترا الصناعية",
+        "nameAR": "مجموعة أسترا الصناعية",
+        "nameEN": "Astra Industrial Group"
+    },
+    {
+        "id": "2120",
+        "name": "الشركة السعودية للصناعات المتطورة",
+        "nameAR": "الشركة السعودية للصناعات المتطورة",
+        "nameEN": "Saudi Advanced Industries Co."
+    },
+    {
+        "id": "3004",
+        "name": "شركة أسمنت المنطقة الشمالية",
+        "nameAR": "شركة أسمنت المنطقة الشمالية",
+        "nameEN": "Northern Region Cement Co."
+    },
+    {
+        "id": "8190",
+        "name": "الشركة المتحدة للتأمين التعاوني",
+        "nameAR": "الشركة المتحدة للتأمين التعاوني",
+        "nameEN": "United Cooperative Assurance Co."
+    },
+    {
+        "id": "1120",
+        "name": "مصرف الراجحي",
+        "nameAR": "مصرف الراجحي",
+        "nameEN": "Al Rajhi Bank"
+    },
+    {
+        "id": "1201",
+        "name": "شركة تكوين المتطورة للصناعات",
+        "nameAR": "شركة تكوين المتطورة للصناعات",
+        "nameEN": "Takween Advanced Industries Co."
+    },
+    {
+        "id": "1810",
+        "name": "مجموعة سيرا القابضة",
+        "nameAR": "مجموعة سيرا القابضة",
+        "nameEN": "Seera Group Holding"
+    },
+    {
+        "id": "4130",
+        "name": "شركة الباحة للإستثمار والتنمية",
+        "nameAR": "شركة الباحة للإستثمار والتنمية",
+        "nameEN": "Al-Baha Investment and Development Co."
+    },
+    {
+        "id": "8012",
+        "name": "شركة الجزيرة تكافل تعاوني",
+        "nameAR": "شركة الجزيرة تكافل تعاوني",
+        "nameEN": "Aljazira Takaful Taawuni Co."
+    },
+    {
+        "id": "1302",
+        "name": "شركة بوان",
+        "nameAR": "شركة بوان",
+        "nameEN": "Bawan Co."
+    },
+    {
+        "id": "4006",
+        "name": "الشركة السعودية للتسويق",
+        "nameAR": "الشركة السعودية للتسويق",
+        "nameEN": "Saudi Marketing Co."
+    },
+    {
+        "id": "3005",
+        "name": "شركة أسمنت ام القرى",
+        "nameAR": "شركة أسمنت ام القرى",
+        "nameEN": "Umm Al-Qura Cement Co."
+    },
+    {
+        "id": "1820",
+        "name": "مجموعة عبدالمحسن الحكير للسياحة والتنمية",
+        "nameAR": "مجموعة عبدالمحسن الحكير للسياحة والتنمية",
+        "nameEN": "Abdulmohsen Alhokair Group for Tourism and Development"
+    },
+    {
+        "id": "4007",
+        "name": "شركة الحمادي القابضة",
+        "nameAR": "شركة الحمادي القابضة",
+        "nameEN": "Al Hammadi Holding"
+    },
+    {
+        "id": "1180",
+        "name": "البنك الأهلي السعودي",
+        "nameAR": "البنك الأهلي السعودي",
+        "nameEN": "The Saudi National Bank"
+    },
+    {
+        "id": "1303",
+        "name": "شركة الصناعات الكهربائية",
+        "nameAR": "شركة الصناعات الكهربائية",
+        "nameEN": "Electrical Industries Co."
+    },
+    {
+        "id": "1202",
+        "name": "شركة الشرق الأوسط لصناعة وإنتاج الورق",
+        "nameAR": "شركة الشرق الأوسط لصناعة وإنتاج الورق",
+        "nameEN": "Middle East Paper Co."
+    },
+    {
+        "id": "4008",
+        "name": "الشركة السعودية للعدد والأدوات",
+        "nameAR": "الشركة السعودية للعدد والأدوات",
+        "nameEN": "Saudi Company for Hardware"
+    },
+    {
+        "id": "4031",
+        "name": "الشركة السعودية للخدمات الأرضية",
+        "nameAR": "الشركة السعودية للخدمات الأرضية",
+        "nameEN": "Saudi Ground Services Co."
+    },
+    {
+        "id": "4320",
+        "name": "شركة الأندلس العقارية",
+        "nameAR": "شركة الأندلس العقارية",
+        "nameEN": "Alandalus Property Co."
+    },
+    {
+        "id": "4009",
+        "name": "شركة الشرق الأوسط للرعاية الصحية",
+        "nameAR": "شركة الشرق الأوسط للرعاية الصحية",
+        "nameEN": "Middle East Healthcare Co."
+    },
+    {
+        "id": "7030",
+        "name": "شركة الإتصالات المتنقلة السعودية",
+        "nameAR": "شركة الإتصالات المتنقلة السعودية",
+        "nameEN": "Mobile Telecommunication Company Saudi Arabia"
+    },
+    {
+        "id": "8030",
+        "name": "شركة المتوسط والخليج للتأمين وإعادة التأمين التعاوني",
+        "nameAR": "شركة المتوسط والخليج للتأمين وإعادة التأمين التعاوني",
+        "nameEN": "The Mediterranean and Gulf Insurance and Reinsurance Co."
+    },
+    {
+        "id": "2290",
+        "name": "شركة ينبع الوطنية للبتروكيماويات",
+        "nameAR": "شركة ينبع الوطنية للبتروكيماويات",
+        "nameEN": "Yanbu National Petrochemical Co."
+    },
+    {
+        "id": "1140",
+        "name": "بنك البلاد",
+        "nameAR": "بنك البلاد",
+        "nameEN": "Bank Albilad"
+    },
+    {
+        "id": "8260",
+        "name": "الشركة الخليجية العامة للتأمين التعاوني",
+        "nameAR": "الشركة الخليجية العامة للتأمين التعاوني",
+        "nameEN": "Gulf General Cooperative Insurance Co."
+    },
+    {
+        "id": "3080",
+        "name": "شركة أسمنت المنطقة الشرقية",
+        "nameAR": "شركة أسمنت المنطقة الشرقية",
+        "nameEN": "Eastern Province Cement Co."
+    },
+    {
+        "id": "2100",
+        "name": "شركة وفرة للصناعة والتنمية",
+        "nameAR": "شركة وفرة للصناعة والتنمية",
+        "nameEN": "Wafrah for Industry and Development Co."
+    },
+    {
+        "id": "8240",
+        "name": "شركة تْشب العربية للتأمين التعاوني",
+        "nameAR": "شركة تْشب العربية للتأمين التعاوني",
+        "nameEN": "CHUBB Arabia Cooperative Insurance Co."
+    },
+    {
+        "id": "4180",
+        "name": "مجموعة فتيحي القابضة",
+        "nameAR": "مجموعة فتيحي القابضة",
+        "nameEN": "Fitaihi Holding Group"
+    },
+    {
+        "id": "4090",
+        "name": "شركة طيبة للإستثمار",
+        "nameAR": "شركة طيبة للإستثمار",
+        "nameEN": "Taiba Investments Co."
+    },
+    {
+        "id": "1050",
+        "name": "البنك السعودي الفرنسي",
+        "nameAR": "البنك السعودي الفرنسي",
+        "nameEN": "Banque Saudi Fransi"
+    },
+    {
+        "id": "1320",
+        "name": "الشركة السعودية لأنابيب الصلب",
+        "nameAR": "الشركة السعودية لأنابيب الصلب",
+        "nameEN": "Saudi Steel Pipe Co."
+    },
+    {
+        "id": "2250",
+        "name": "المجموعة السعودية للإستثمار الصناعي",
+        "nameAR": "المجموعة السعودية للإستثمار الصناعي",
+        "nameEN": "Saudi Industrial Investment Group"
+    },
+    {
+        "id": "8300",
+        "name": "الشركة الوطنية للتأمين",
+        "nameAR": "الشركة الوطنية للتأمين",
+        "nameEN": "Wataniya Insurance Co."
+    },
+    {
+        "id": "3091",
+        "name": "شركة أسمنت الجوف",
+        "nameAR": "شركة أسمنت الجوف",
+        "nameEN": "Al Jouf Cement Co."
+    },
+    {
+        "id": "4020",
+        "name": "الشركة العقارية السعودية",
+        "nameAR": "الشركة العقارية السعودية",
+        "nameEN": "Saudi Real Estate Co."
+    },
+    {
+        "id": "4080",
+        "name": "شركة سناد القابضة",
+        "nameAR": "شركة سناد القابضة",
+        "nameEN": "Sinad Holding Co."
+    },
+    {
+        "id": "2270",
+        "name": "الشركة السعودية لمنتجات الألبان والأغذية",
+        "nameAR": "الشركة السعودية لمنتجات الألبان والأغذية",
+        "nameEN": "Saudia Dairy and Foodstuff Co."
+    },
+    {
+        "id": "1830",
+        "name": "شركة لجام للرياضة",
+        "nameAR": "شركة لجام للرياضة",
+        "nameEN": "Leejam Sports Co."
+    },
+    {
+        "id": "4292",
+        "name": "شركة عطاء التعليمية",
+        "nameAR": "شركة عطاء التعليمية",
+        "nameEN": "Ataa Educational Co."
+    },
+    {
+        "id": "4051",
+        "name": "شركة باعظيم التجارية",
+        "nameAR": "شركة باعظيم التجارية",
+        "nameEN": "Baazeem Trading Co."
+    },
+    {
+        "id": "1832",
+        "name": "شركة صدر للخدمات اللوجستية",
+        "nameAR": "شركة صدر للخدمات اللوجستية",
+        "nameEN": "Sadr Logistics Co."
+    },
+    {
+        "id": "2081",
+        "name": "شركة الخريف لتقنية المياه والطاقة",
+        "nameAR": "شركة الخريف لتقنية المياه والطاقة",
+        "nameEN": "Alkhorayef Water and Power Technologies Co."
+    },
+    {
+        "id": "2310",
+        "name": "شركة الصحراء العالمية للبتروكيماويات",
+        "nameAR": "شركة الصحراء العالمية للبتروكيماويات",
+        "nameEN": "Sahara International Petrochemical Co."
+    },
+    {
+        "id": "4012",
+        "name": "شركة ثوب الأصيل",
+        "nameAR": "شركة ثوب الأصيل",
+        "nameEN": "Thob Al Aseel Co."
+    },
+    {
+        "id": "4191",
+        "name": "شركة عبد الله سعد محمد أبو معطي للمكتبات",
+        "nameAR": "شركة عبد الله سعد محمد أبو معطي للمكتبات",
+        "nameEN": "Abdullah Saad Mohammed Abo Moati for Bookstores Co."
+    },
+    {
+        "id": "7201",
+        "name": "شركة بحر العرب لأنظمة المعلومات",
+        "nameAR": "شركة بحر العرب لأنظمة المعلومات",
+        "nameEN": "Arab Sea Information System Co."
+    },
+    {
+        "id": "4161",
+        "name": "شركة بن داود القابضة",
+        "nameAR": "شركة بن داود القابضة",
+        "nameEN": "BinDawood Holding Co."
+    },
+    {
+        "id": "4011",
+        "name": "شركة لازوردي للمجوهرات",
+        "nameAR": "شركة لازوردي للمجوهرات",
+        "nameEN": "Lazurde Company for Jewelry"
+    },
+    {
+        "id": "3007",
+        "name": "شركة زهرة الواحة للتجارة",
+        "nameAR": "شركة زهرة الواحة للتجارة",
+        "nameEN": "Zahrat Al Waha for Trading Co."
+    },
+    {
+        "id": "4291",
+        "name": "الشركة الوطنية للتربية و التعليم",
+        "nameAR": "الشركة الوطنية للتربية و التعليم",
+        "nameEN": "National Company for Learning and Education"
+    },
+    {
+        "id": "1831",
+        "name": "شركة مهارة للموارد البشرية",
+        "nameAR": "شركة مهارة للموارد البشرية",
+        "nameEN": "Maharah Human Resources Co."
+    },
+    {
+        "id": "7010",
+        "name": "شركة الإتصالات السعودية",
+        "nameAR": "شركة الإتصالات السعودية",
+        "nameEN": "Saudi Telecom Co."
+    },
+    {
+        "id": "3040",
+        "name": "شركة أسمنت القصيم",
+        "nameAR": "شركة أسمنت القصيم",
+        "nameEN": "Qassim Cement Co."
+    },
+    {
+        "id": "2222",
+        "name": "شركة الزيت العربية السعودية",
+        "nameAR": "شركة الزيت العربية السعودية",
+        "nameEN": "Saudi Arabian Oil Co."
+    },
+    {
+        "id": "1182",
+        "name": "شركة أملاك العالمية للتمويل",
+        "nameAR": "شركة أملاك العالمية للتمويل",
+        "nameEN": "Amlak International Finance Co."
+    },
+    {
+        "id": "1304",
+        "name": "شركة اليمامة للصناعات الحديدية",
+        "nameAR": "شركة اليمامة للصناعات الحديدية",
+        "nameEN": "Al Yamamah Steel Industries Co."
+    },
+    {
+        "id": "4321",
+        "name": "شركة المراكز العربية",
+        "nameAR": "شركة المراكز العربية",
+        "nameEN": "Arabian Centres Co."
+    },
+    {
+        "id": "6012",
+        "name": "شركة ريدان الغذائية",
+        "nameAR": "شركة ريدان الغذائية",
+        "nameEN": "Raydan Food Co."
+    },
+    {
+        "id": "7040",
+        "name": "شركة إتحاد عذيب للإتصالات",
+        "nameAR": "شركة إتحاد عذيب للإتصالات",
+        "nameEN": "Etihad Atheeb Telecommunication Co."
+    },
+    {
+        "id": "7200",
+        "name": "شركة المعمر لأنظمة المعلومات",
+        "nameAR": "شركة المعمر لأنظمة المعلومات",
+        "nameEN": "Al Moammar Information Systems Co."
+    },
+    {
+        "id": "4261",
+        "name": "شركة ذيب لتأجير السيارات",
+        "nameAR": "شركة ذيب لتأجير السيارات",
+        "nameEN": "Theeb Rent a Car Co."
+    },
+    {
+        "id": "3008",
+        "name": "شركة الكثيري القابضة",
+        "nameAR": "شركة الكثيري القابضة",
+        "nameEN": "Al Kathiri Holding Co."
+    },
+    {
+        "id": "4013",
+        "name": "مجموعة الدكتور سليمان الحبيب للخدمات الطبية",
+        "nameAR": "مجموعة الدكتور سليمان الحبيب للخدمات الطبية",
+        "nameEN": "Dr. Sulaiman Al Habib Medical Services Group"
+    },
+    {
+        "id": "6013",
+        "name": "شركة الأعمال التطويرية الغذائية",
+        "nameAR": "شركة الأعمال التطويرية الغذائية",
+        "nameEN": "Development Works Food Co."
+    },
+    {
+        "id": "6014",
+        "name": "شركة الآمار الغذائية",
+        "nameAR": "شركة الآمار الغذائية",
+        "nameEN": "Alamar Foods Co."
+    },
+    {
+        "id": "2282",
+        "name": "شركة نقي للمياه",
+        "nameAR": "شركة نقي للمياه",
+        "nameEN": "Naqi Water Co."
+    },
+    {
+        "id": "2281",
+        "name": "شركة التنمية الغذائية",
+        "nameAR": "شركة التنمية الغذائية",
+        "nameEN": "Tanmiah Food Co."
+    },
+    {
+        "id": "7202",
+        "name": "الشركة العربية لخدمات الإنترنت والاتصالات",
+        "nameAR": "الشركة العربية لخدمات الإنترنت والاتصالات",
+        "nameEN": "Arabian Internet and Communications Services Co."
+    },
+    {
+        "id": "1111",
+        "name": "شركة مجموعة تداول السعودية القابضة",
+        "nameAR": "شركة مجموعة تداول السعودية القابضة",
+        "nameEN": "Saudi Tadawul Group Holding Co."
+    },
+    {
+        "id": "4162",
+        "name": "شركة المنجم للأغذية",
+        "nameAR": "شركة المنجم للأغذية",
+        "nameEN": "Almunajem Foods Co."
+    },
+    {
+        "id": "1321",
+        "name": "شركة أنابيب الشرق المتكاملة للصناعة",
+        "nameAR": "شركة أنابيب الشرق المتكاملة للصناعة",
+        "nameEN": "East Pipes Integrated Company for Industry"
+    },
+    {
+        "id": "7203",
+        "name": "شركة علم",
+        "nameAR": "شركة علم",
+        "nameEN": "Elm Co."
+    },
+    {
+        "id": "4014",
+        "name": "شركة دار المعدات الطبية والعلمية",
+        "nameAR": "شركة دار المعدات الطبية والعلمية",
+        "nameEN": "Scientific and Medical Equipment House Co."
+    },
+    {
+        "id": "4163",
+        "name": "شركة الدواء للخدمات الطبية",
+        "nameAR": "شركة الدواء للخدمات الطبية",
+        "nameEN": "Aldawaa Medical Services Co."
+    },
+    {
+        "id": "4164",
+        "name": "شركة النهدي الطبية",
+        "nameAR": "شركة النهدي الطبية",
+        "nameEN": "Nahdi Medical Co."
+    },
+    {
+        "id": "1322",
+        "name": "شركة المصانع الكبرى للتعدين",
+        "nameAR": "شركة المصانع الكبرى للتعدين",
+        "nameEN": "Almasane Alkobra Mining Co."
+    },
+    {
+        "id": "1183",
+        "name": "شركة سهل للتمويل",
+        "nameAR": "شركة سهل للتمويل",
+        "nameEN": "SHL Finance Co."
+    },
+    {
+        "id": "4322",
+        "name": "شركة رتال للتطوير العمراني",
+        "nameAR": "شركة رتال للتطوير العمراني",
+        "nameEN": "Retal Urban Development Co."
+    },
+    {
+        "id": "2082",
+        "name": "شركة أكوا باور",
+        "nameAR": "شركة أكوا باور",
+        "nameEN": "ACWA POWER Co."
+    },
+    {
+        "id": "4071",
+        "name": "الشركة العربية للتعهدات الفنية",
+        "nameAR": "الشركة العربية للتعهدات الفنية",
+        "nameEN": "Arabian Contracting Services Co."
+    },
+    {
+        "id": "4081",
+        "name": "شركة النايفات للتمويل",
+        "nameAR": "شركة النايفات للتمويل",
+        "nameEN": "Nayifat Finance Co."
+    },
+    {
+        "id": "2381",
+        "name": "شركة الحفر العربية",
+        "nameAR": "شركة الحفر العربية",
+        "nameEN": "Arabian Drilling Co."
+    },
+    {
+        "id": "7204",
+        "name": "شركة العرض المتقن للخدمات التجارية",
+        "nameAR": "شركة العرض المتقن للخدمات التجارية",
+        "nameEN": "Perfect Presentation for Commercial Services Co."
+    },
+    {
+        "id": "2083",
+        "name": "شركة مرافق الكهرباء والمياه بالجبيل وينبع",
+        "nameAR": "شركة مرافق الكهرباء والمياه بالجبيل وينبع",
+        "nameEN": "The Power and Water Utility Company for Jubail and Yanbu"
+    },
+    {
+        "id": "6015",
+        "name": "شركة أمريكانا للمطاعم العالمية بي إل سي - شركة أجنبية",
+        "nameAR": "شركة أمريكانا للمطاعم العالمية بي إل سي - شركة أجنبية",
+        "nameEN": "Americana Restaurants International PLC - Foreign Company"
+    },
+    {
+        "id": "4082",
+        "name": "شركة المرابحة المرنة للتمويل",
+        "nameAR": "شركة المرابحة المرنة للتمويل",
+        "nameEN": "Morabaha Marina Financing Co."
+    },
+    {
+        "id": "2283",
+        "name": "شركة المطاحن الأولى",
+        "nameAR": "شركة المطاحن الأولى",
+        "nameEN": "First Milling Co."
+    },
+    {
+        "id": "4323",
+        "name": "شركة سمو العقارية",
+        "nameAR": "شركة سمو العقارية",
+        "nameEN": "Sumou Real Estate Co."
+    },
+    {
+        "id": "4262",
+        "name": "شركة لومي للتأجير",
+        "nameAR": "شركة لومي للتأجير",
+        "nameEN": "Lumi Rental Co."
+    },
+    {
+        "id": "9596",
+        "name": "شركة كوارا للتمويل",
+        "nameAR": "شركة كوارا للتمويل",
+        "nameEN": "Quara Finance Co."
+    },
+    {
+        "id": "4017",
+        "name": "شركة مستشفى الدكتور سليمان عبدالقادر فقيه",
+        "nameAR": "شركة مستشفى الدكتور سليمان عبدالقادر فقيه",
+        "nameEN": "Dr. Soliman Abdel Kader Fakeeh Hospital Co."
+    },
+    {
+        "id": "1834",
+        "name": "الشركة السعودية لحلول القوى البشرية",
+        "nameAR": "الشركة السعودية لحلول القوى البشرية",
+        "nameEN": "Saudi Manpower Solutions Co."
+    },
+    {
+        "id": "4072",
+        "name": "شركة مجموعة إم بي سي",
+        "nameAR": "شركة مجموعة إم بي سي",
+        "nameEN": "MBC Group Co."
+    },
+    {
+        "id": "2284",
+        "name": "شركة المطاحن الحديثة للمنتجات الغذائية",
+        "nameAR": "شركة المطاحن الحديثة للمنتجات الغذائية",
+        "nameEN": "Modern Mills for Food Products Co."
+    },
+    {
+        "id": "4142",
+        "name": "شركة مجموعة كابلات الرياض",
+        "nameAR": "شركة مجموعة كابلات الرياض",
+        "nameEN": "Riyadh Cables Group Co."
+    },
+    {
+        "id": "4192",
+        "name": "شركة متاجر السيف للتنمية والاستثمار",
+        "nameAR": "شركة متاجر السيف للتنمية والاستثمار",
+        "nameEN": "AlSaif Stores for Development and Investment Co."
+    },
+    {
+        "id": "2223",
+        "name": "شركة أرامكو السعودية لزيوت الأساس",
+        "nameAR": "شركة أرامكو السعودية لزيوت الأساس",
+        "nameEN": "Saudi Aramco Base Oil Co."
+    },
+    {
+        "id": "4015",
+        "name": "شركة مصنع جمجوم للأدوية",
+        "nameAR": "شركة مصنع جمجوم للأدوية",
+        "nameEN": "Jamjoom Pharmaceuticals Factory Co."
+    },
+    {
+        "id": "1833",
+        "name": "شركة الموارد للقوى البشرية",
+        "nameAR": "شركة الموارد للقوى البشرية",
+        "nameEN": "Al Mawarid Manpower Co."
+    },
+    {
+        "id": "4263",
+        "name": "شركة سال السعودية للخدمات اللوجستية",
+        "nameAR": "شركة سال السعودية للخدمات اللوجستية",
+        "nameEN": "SAL Saudi Logistics Services Co."
+    },
+    {
+        "id": "6016",
+        "name": "شركة مطاعم بيت الشطيرة للوجبات السريعة",
+        "nameAR": "شركة مطاعم بيت الشطيرة للوجبات السريعة",
+        "nameEN": "Shatirah House Restaurant Co."
+    },
+    {
+        "id": "4165",
+        "name": "شركة الماجد للعود",
+        "nameAR": "شركة الماجد للعود",
+        "nameEN": "Al Majed Oud Co."
+    }
+]
