@@ -1,5 +1,5 @@
 from langchain_huggingface import HuggingFaceEmbeddings
-embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
+embeddings = HuggingFaceEmbeddings(model_name="prithivida/miniDense_arabic_v1")
 
 from langchain_qdrant import QdrantVectorStore
 from qdrant_client import QdrantClient
