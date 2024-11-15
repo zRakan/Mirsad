@@ -76,7 +76,7 @@ export default defineEventHandler(async function(event) {
 
         // Get company data
         let dataCompany = await client.get(`datathon:${chat.company}:data`);
-        if(!dataCompany) dataCompany = await getData(chat.company)
+        if(!dataCompany) dataCompany = await getData(chat.company, false)
         else dataCompany = JSON.parse(dataCompany);
 
         // Create system prompt

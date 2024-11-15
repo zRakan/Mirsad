@@ -14,7 +14,7 @@ export default defineEventHandler(async function(event) {
     if(chat.company) {
         data = await client.get(`datathon:${chat.company}:data`);
         if(data) data = JSON.parse(data);
-        else if(!data) data = await getData(chat.company);
+        else if(!data) data = await getData(chat.company, false);
 
         data.name = dataCompanies.filter(el => el.id == chat.company)[0]
     }
