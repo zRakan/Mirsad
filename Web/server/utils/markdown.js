@@ -73,7 +73,7 @@ export default function(data) {
         for(let header of currentHeaders) {
             let parsedNumber = dateData[header];
             
-            if(header != "Profit (Loss) per Share" && parsedNumber) {
+            if(header != "Profit (Loss) per Share" && header != "ربحية (خسارة) السهم" && parsedNumber) {
                 parsedNumber = parseFloat(dateData[header].replace(/[,]/g, ''));
                 parsedNumber = numberWithCommas(parsedNumber * 1000);
             }
